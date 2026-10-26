@@ -7,6 +7,7 @@ I'm a product-oriented **Software Engineer** with experience in data science and
 🟢 Open · 🟣 Merged
 
 #### [mozilla/pdf.js](https://github.com/mozilla/pdf.js)
+- 🟢 [#22339](https://github.com/mozilla/pdf.js/pull/22339) Fix the position of the drawings and of the comment popup/dialog after a rotation
 - 🟢 [#22192](https://github.com/mozilla/pdf.js/pull/22192) Save the ticked widget's value as the field value of a checkbox group
 - 🟢 [#22159](https://github.com/mozilla/pdf.js/pull/22159) Navigate to the page of an ink annotation when its deletion is undone
 - 🟢 [#22117](https://github.com/mozilla/pdf.js/pull/22117) Don't bind transparent XFA nodes to data nodes (issue 21904)
