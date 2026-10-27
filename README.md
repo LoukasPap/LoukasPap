@@ -26,6 +26,7 @@ I'm a product-oriented **Software Engineer** with experience in data science and
 - 🟣 [#260](https://github.com/uutils/sed/pull/260) Add support for address range commands (GNU extension)
 
 #### [uutils/coreutils](https://github.com/uutils/coreutils)
+- 🟢 [#15932](https://github.com/uutils/coreutils/pull/15932) cp, mv: name the failing step in permission errors
 - 🟣 [#13175](https://github.com/uutils/coreutils/pull/13175) install: add error with -d when an argument is not dir
 - 🟣 [#13164](https://github.com/uutils/coreutils/pull/13164) realpath: fix 'nonexistent/./' to be treated as invalid
 - 🟣 [#13135](https://github.com/uutils/coreutils/pull/13135) cp: fix --remove-destination deleting source when dest is the same file under a different path
